@@ -1,0 +1,319 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+html,body{
+
+    width: 100%;
+    height: 100%;
+
+}
+
+
+
+#nav{
+    width: 100%;
+    height: 8%;
+    background-color: black;
+position: relative;
+
+}
+
+#nav h1{
+margin-left: 5%;
+    font-size: 32px;
+    color: orangered;
+
+
+}
+
+#nav p {
+    margin-left: 5%;
+    color: white;
+
+
+}
+#nav-part1{
+
+    display: flex;
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 19px;
+    left: 30%;
+}
+#nav-part1 h4 {
+    margin-right: 25px;
+}
+
+
+#nav-part2{
+    display: flex;
+    position: absolute;
+    top: 19px;
+    left: 90%;
+   
+    font-size: 18px;
+    letter-spacing: 15px;
+    color: white;
+    
+}
+
+#upper h1{ position: absolute;
+    left: 45%;
+    top: 20px;
+    
+    font-size: 40px;
+
+    }
+    
+#upper p {
+    position: absolute;
+    left: 40%;
+    top: 55px;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.526);
+    
+
+}
+
+.page1{
+
+width: 100%;
+height: 100%;
+position: relative;
+display: flex;
+ 
+}
+
+
+#p1b1{
+
+    width: 50%;
+    height: 85%;
+    
+    margin-top: 8%;
+margin-left: 6%;
+padding-top: 3%;
+}
+
+
+#p1b1 h1{
+    padding-left: -1px;
+ font-size: 50px;
+}
+
+#p1b1 p{
+font-size: 18px;
+
+text-align: center;
+
+}
+
+
+#p1b2{
+
+    width: 50%;
+    height: 85%;
+    
+    margin-top: 8%;
+    margin-right: 6%;
+
+
+}
+
+img{
+    padding-left: 5%;
+    width: 90%;
+    height: 100%;
+
+}
+
+
+.page2{
+
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+
+}
+
+#p2b1{
+
+    width: 50%;
+    height: 85%;
+    
+    margin-left: 6%;
+    margin-top: 8%;
+
+
+}
+img{
+    padding-left: 5%;
+    width: 90%;
+    height: 100%;
+
+}
+#p2b2{
+
+    width: 50%;
+    height: 85%;
+    
+    margin-right: 6%;
+    margin-top: 8%;
+
+
+}
+#p2b2 h1{
+    font-size: 50px;
+   }
+   
+   #p2b2 p{
+   font: size 40px;
+   text-align: center;
+   }
+
+
+.page3{
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+
+}
+
+#p3b1{
+
+    width: 50%;
+    height: 85%;
+    
+    margin-left: 6%;
+    margin-top: 8%;
+
+
+}
+#p3b1 h1{
+    font-size: 50px;
+   }
+   
+   #p3b1 p{
+   font-size: 18px;
+   text-align: center;
+   }
+#p3b2{
+
+    width: 50%;
+    height: 85%;
+    margin-right: 6%;
+    margin-top: 8%;
+
+
+}
+
+
+img{
+    padding-left: 5%;
+    width: 90%;
+    height: 100%;
+
+}
+
+.page4{
+    width: 100%;
+    height: 100%;
+
+position: relative;
+
+}
+
+#p4b1{
+    margin-top: 10%;
+    width: 100%;
+    height: 20%;
+    background-color: black;
+    position: relative;
+
+}
+#p4b1 h1{
+    padding-top: 2%;
+    padding-left: 5%;
+    font-size: 35px;
+    color: white;
+
+}
+#p4b1 input {
+    position: absolute;
+left: 64%;
+top: 39%;
+font-size: 28px;
+background: transparent;
+
+
+}
+ #p4b1 button{
+
+position: absolute;
+left: 84%;
+top: 38%;
+
+    color: white;
+    background-color: orangered;
+    padding: 10px 20px ;
+
+ }
+
+
+ #p4b2{
+    width: 100%;
+    height: 50%;
+    position: relative;
+    margin-top: -35%;
+    display: flex;
+ }
+
+
+ #p4b21{
+    height: 100%;
+    width: 25%;
+    font-size: 22px;
+    font-weight: 100;
+    margin-left: 2%;
+ }
+
+
+ #p4b22{
+    height: 100%;
+    width: 25%;
+    font-size: 22px;
+    font-weight: 100;
+    margin-left: 2%;
+
+ } 
+ #p4b23{
+    height: 100%;
+    width: 25%;
+    font-size: 22px;
+    font-weight: 100;
+    margin-left: 2%;
+ }
+ #p4b24{
+    height: 100%;
+    width: 25%;
+    font-size: 22px;
+    font-weight: 100;
+    margin-left: 2%;
+ }
+  #logo{
+    margin-top: 20%;
+    margin-left: 10%;
+    width: 60%;
+    height: 20%;
+  }
